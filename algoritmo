@@ -1,0 +1,51 @@
+Inicio. 
+    1 - Acordar e abrir os olhos
+    2 - Levantar da cama
+    3 - Caminhar até a porta
+    4 - Se a porta estiver trancada:
+        A - Colocar a chave na fechadura
+        B - Girar a chave 360 graus em sentido anti-horário
+        C - Levar a mão até a maçaneta
+        D - Girar a maçaneta em 360 graus
+        E - Puxar a porta.
+    5 - Se a porta não estiver trancada: 
+        A - Colocar a mão na maçaneta 
+        B - Girar a maçaneta em 360 graus
+        C - Puxar a porta.
+    6 - Ir até o banheiro
+    7 - Se a porta estiver trancada:
+        A - Colocar a chave na fechadura
+        B - Girar a chave 360 graus em sentido anti-horário
+        C - Levar a mão até a maçaneta
+        D - Girar a maçaneta em 360 graus
+        E - Puxar a porta.
+    8 - Se a porta não estiver trancada: 
+        A - Colocar a mão na maçaneta 
+        B - Girar a maçaneta em 360 graus
+        C - Puxar a porta.
+    9 - Ir até a pia
+    10 - Ligar a torneira
+    11 - Lavar o rosto
+    12 - Fechar a torneira
+    13 - Pegar a toalha de rosto
+    14 - Secar o rosto
+    15 - Sair do banheiro
+    16 - Ir até a cozinha
+    17 - Verificar se a garrafa está na cozinha
+    18 - Se a garrafa estiver na cozinha:
+        A - Pegue uma caneca
+        B - Abra a garrafa
+        C - Coloque o café na caneca
+        D - Feche a garrafa
+        E - Aprecie o café
+    19 - Se a garrafa não estiver na cozinha:
+        A - Ir até a casa do vô
+        B - Verificar se o vô terminou de fazer o café
+        C - Pegue a garrafa
+        D - Volte para a cozinha de sua casa
+        E - Pegue uma caneca
+        F - Abra a garrafa 
+        G - Coloque na caneca o café
+        H - Feche a garrafa
+        I - Aprecie o café
+FIM. 
